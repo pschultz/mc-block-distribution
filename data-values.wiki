@@ -1,0 +1,258 @@
+| height="27px" | || <span style='color:#00BFFF;'>00</span> || <span style='color:#00BFFF;'>{{dec-hex|00}}</span> || [[Air]]
+|-
+| height="27px" | [[File:Stone.png|25px]] || 01 || {{dec-hex|01}} || [[Stone]]
+|-
+| height="27px" | [[File:Grass.png|25px]] || <span style='color:green'>02</span> || <span style='color:green'>{{dec-hex|02}}</span> || [[Grass Block]]
+|-
+| height="27px" | [[File:Dirt.png|25px]] || 03 || {{dec-hex|03}} || [[Dirt]]
+|-
+| height="27px" | [[File:Cobblestone.png|25px]] || 04 || {{dec-hex|04}} || [[Cobblestone]]
+|-
+| height="27px" | [[File:Wooden Plank.png|25px]] || 05 || {{dec-hex|05}} || [[Wooden Planks]]
+|-
+| height="27px" | [[File:Sapling.png|25px]] || 06 || {{dec-hex|06}} || [[Saplings]] <sup>[[#Saplings|D]] [[#Saplings|B]]</sup>
+|-
+| height="27px" | [[File:Bedrock.png|25px]] || <span style='color:blue'>07</span> || <span style='color:blue'>{{dec-hex|07}}</span> || [[Bedrock]]
+|-
+| height="27px" | [[File:Water.png|25px]] || <span style='color:red'>08</span> || <span style='color:red'>{{dec-hex|08}}</span> || [[Water]] <sup>[[#Water and Lava|D]]</sup>
+|-
+| height="27px" | [[File:Water.png|25px]] || <span style='color:red'>09</span> || <span style='color:red'>{{dec-hex|09}}</span> || Stationary water <sup>[[#Water and Lava|D]]</sup>
+|-
+| height="27px" | [[File:Lava.png|25px]] || <span style='color:red'>10</span> || <span style='color:red'>{{dec-hex|10}}</span> || [[Lava]] <sup>[[#Water and Lava|D]]</sup>
+|-
+| height="27px" | [[File:Lava.png|25px]] || <span style='color:red'>11</span> || <span style='color:red'>{{dec-hex|11}}</span> || Stationary lava <sup>[[#Water and Lava|D]]</sup>
+|-
+| height="27px" | [[File:Sand.png|25px]] || 12 || {{dec-hex|12}} || [[Sand]]
+|-
+| height="27px" | [[File:Gravel.png|25px]] || 13 || {{dec-hex|13}} || [[Gravel]]
+|-
+| height="27px" | [[File:Gold (Ore).png|25px]] || 14 || {{dec-hex|14}} || [[Gold Ore]]
+|-
+| height="27px" | [[File:Iron (Ore).png|25px]] || 15 || {{dec-hex|15}} || [[Iron Ore]]
+|-
+| height="27px" | [[File:Coal (Ore).png|25px]] || <span style='color:green'>16</span> || <span style='color:green'>{{dec-hex|16}}</span> || [[Coal Ore]]
+|-
+| height="27px" | [[File:Wood.png|25px]] || 17 || {{dec-hex|17}} || [[Wood]] <sup>[[#Wood|D]] [[#Wood|B]]
+|-
+| height="27px" | [[File:Leaves.png|25px]] || 18 || {{dec-hex|18}} || [[Leaves]] <sup>[[#Leaves|D]] [[#Leaves|B]]</sup>
+|-
+| height="27px" | [[File:Sponge.png|25px]] || <span style='color:blue'>19</span> || <span style='color:blue'>{{dec-hex|19}}</span> || [[Sponge]]
+|-
+| height="27px" | [[File:Glass.png|25px]] || 20 || {{dec-hex|20}} || [[Glass]]
+|-
+| height="27px" | [[File:Lapis Lazuli (Ore).png|25px]] || <span style='color:green'>21</span> || <span style='color:green'>{{dec-hex|21}}</span> || [[Lapis Lazuli (Ore)|Lapis Lazuli Ore]]
+|-
+| height="27px" | [[File:Lapis Lazuli (Block).png|25px]]  || 22 || {{dec-hex|22}} || [[Lapis Lazuli (Block)|Lapis Lazuli Block]]
+|-
+| height="27px" | [[File:Dispenser.png|25px]] || 23 || {{dec-hex|23}} || [[Dispenser]] <sup>[[#Ladders, Wall Signs, Furnaces, Dispensers and Chests|D]] [[Tile entity|T]]</sup>
+|-
+| height="27px" | [[File:Sandstone.png|25px]] || 24 || {{dec-hex|24}} || [[Sandstone]]
+|-
+| height="27px" | [[File:Note Block.png|25px]] || 25 || {{dec-hex|25}} || [[Note Block]] <sup>[[Tile entity|T]]</sup>
+|-
+| height="27px" | [[File:Bed.png|25px]] || <span style='color:red'>26</span> || <span style='color:red'>{{dec-hex|26}}</span> || [[Bed]] <sup>[[#Beds|D]] [[#Item_IDs|I]]</sup>
+|-
+| height="27px" | [[File:Powered Rail Off.png|25px]] || 27 || {{dec-hex|27}} || [[Powered Rail]] <sup>[[#Rails|D]]</sup>
+|-
+| height="27px" | [[File:Detector Rail.png|25px]] || 28 || {{dec-hex|28}} || [[Detector Rail]] <sup>[[#Rails|D]]</sup>
+|-
+| height="27px" | [[File:Sticky Piston.png|25px]] || 29 || {{dec-hex|29}} || [[Sticky Piston]] <sup>[[#Piston|D]]</sup>
+|-
+| height="27px" | [[File:WebBlock.png|25px]] || <span style='color:blue'>30</span> || <span style='color:blue'>{{dec-hex|30}}</span> || [[Cobweb]]
+|-
+| height="27px" | [[File:Tall Grass.png|25px]] || 31 || {{dec-hex|31}} || [[Grass|Tall Grass]] <sup>[[#Tall Grass|D]]</sup>
+|}
+
+{| align="left" style="margin:2px; border: 1px solid silver; text-align: center;"
+! Icon !! Dec !! Hex !! Block type
+|-
+| height="27px" | [[File:Dead Bush.png|25px]] || <span style='color:blue'>32</span> || <span style='color:blue'>{{dec-hex|32}}</span> || [[Dead Bush]]
+|-
+| height="27px" | [[File:Piston.png|25px]] || 33 || {{dec-hex|33}} || [[Piston]] <sup>[[#Piston|D]]</sup>
+|-
+| height="27px" | [[File:Block 34.png|25px]] || <span style='color:red'>34</span> || <span style='color:red'>{{dec-hex|34}}</span> || [[Technical blocks#Block 34|Piston Extension]] <sup>[[#Piston Extension|D]]</sup>
+|-
+| height="27px" | [[File:White Wool.png|25px]] || 35 || {{dec-hex|35}} || [[Wool]] <sup>[[#Wool|D]] [[#Wool|B]]</sup>
+|-
+| height="27px" | [[File:Technical blocks.png|25px]] || <span style='color:red'>36</span> || <span style='color:red'>{{dec-hex|36}}</span> || [[Technical blocks#Block 36|Block moved by Piston]] <sup>[[Tile entity|T]]</sup>
+|-
+| height="27px" | [[File:Dandelion.png|25px]] || 37 || {{dec-hex|37}} || [[Flowers#Dandelion|Dandelion]]
+|-
+| height="27px" | [[File:Rose.png|25px]] || 38 || {{dec-hex|38}} || [[Flowers#Rose|Rose]]
+|-
+| height="27px" | [[File:Brown Mushroom.png|25px]] || 39 || {{dec-hex|39}} || [[Mushrooms#Brown Mushroom|Brown Mushroom]]
+|-
+| height="27px" | [[File:Red Mushroom.png|25px]] || 40 || {{dec-hex|40}} || [[Mushrooms#Red Mushroom|Red Mushroom]]
+|-
+| height="27px" | [[File:Gold (Block).png|25px]] || 41 || {{dec-hex|41}} || [[Block of Gold]]
+|-
+| height="27px" | [[File:Iron (Block).png|25px]] || 42 || {{dec-hex|42}} || [[Block of Iron]]
+|-
+| height="27px" | [[File:Double Stone Slab.png|25px]] || <span style='color:#99CC00'>43</span> || <span style='color:#99CC00'>{{dec-hex|43}}</span> || Double [[Slabs]] <sup>[[#Slab and Double Slab material|D]] [[#Slab and Double Slab material|B]]</sup>
+|-
+| height="27px" | [[File:Stone Slab.png|25px]] || 44 || {{dec-hex|44}} || [[Slabs]] <sup>[[#Slab and Double Slab material|D]] [[#Slab and Double Slab material|B]]</sup>
+|-
+| height="27px" | [[File:Brick (Block).png|25px]] || 45 || {{dec-hex|45}} || [[Bricks]]
+|-
+| height="27px" | [[File:TNT.png|25px]] || 46 || {{dec-hex|46}} || [[TNT]]
+|-
+| height="27px" | [[File:Bookshelf.png|25px]] || 47 || {{dec-hex|47}} || [[Bookshelf]]
+|-
+| height="27px" | [[File:Moss Stone.png|25px]] || 48 || {{dec-hex|48}} || [[Moss Stone]]
+|-
+| height="27px" | [[File:Obsidian.png|25px]] || 49 || {{dec-hex|49}} || [[Obsidian]]
+|-
+| height="27px" | [[File:Torch.png|25px]] || 50 || {{dec-hex|50}} || [[Torch]] <sup>[[#Torches and Redstone Torches|D]]</sup>
+|-
+| height="27px" | [[File:Fire.png|25px]] || <span style='color:red'>51</span> || <span style='color:red'>{{dec-hex|51}}</span> || [[Fire]] <sup>[[#Fire|D]]</sup>
+|-
+| height="27px" | [[File:Monster Spawner.png|25px]] || <span style='color:red'>52</span> || <span style='color:red'>{{dec-hex|52}}</span> || [[Monster Spawner]] <sup>[[Tile entity|T]]</sup>
+|-
+| height="27px" | [[File:Wooden Stairs.png|25px]] || 53 || {{dec-hex|53}} || Wooden [[Stairs]] <sup>[[#Stairs|D]]</sup>
+|-
+| height="27px" | [[File:Chest.png|25px]] || 54 || {{dec-hex|54}} || [[Chest]] <sup>[[#Ladders, Wall Signs, Furnaces, Dispensers and Chests|D]] [[Tile entity|T]]</sup>
+|-
+| height="27px" | [[File:Redstone (Wire,Inventory).png|25px]] || <span style='color:red'>55</span> || <span style='color:red'>{{dec-hex|55}}</span> || [[Redstone Wire]] <sup>[[#Redstone Wire|D]] [[#Item_IDs|I]]</sup>
+|-
+| height="27px" | [[File:Diamond (Ore).png|25px]] || <span style='color:green'>56</span> || <span style='color:green'>{{dec-hex|56}}</span> || [[Diamond Ore]]
+|-
+| height="27px" | [[File:Diamond (Block).png|25px]] || 57 || {{dec-hex|57}} || [[Block of Diamond]]
+|-
+| height="27px" | [[File:Crafting Table.png|25px]] || 58 || {{dec-hex|58}} || [[Crafting Table]]
+|-
+| height="27px" | [[File:Crops.png|25px]] || <span style='color:red'>59</span> || <span style='color:red'>{{dec-hex|59}}</span> || [[Wheat Seeds]] <sup>[[#Crops|D]]</sup>
+|-
+| height="27px" | [[File:Farmland.png|25px]] || <span style='color:red'>60</span> || <span style='color:red'>{{dec-hex|60}}</span> || [[Farmland]] <sup>[[#Farmland|D]]</sup>
+|-
+| height="27px" | [[File:Furnace.png|25px]] || 61 || {{dec-hex|61}} || [[Furnace]] <sup>[[#Ladders, Wall Signs, Furnaces, Dispensers and Chests|D]] [[Tile entity|T]]</sup>
+|-
+| height="27px" | [[File:Furnace (Active).png|25px]] || <span style='color:#99CC00'>62</span> || <span style='color:#99CC00'>{{dec-hex|62}}</span> || Burning Furnace <sup>[[#Ladders, Wall Signs, Furnaces, Dispensers and Chests|D]] [[Tile entity|T]]</sup>
+|-
+| height="27px" | [[File:Sign.png|25px]] || <span style='color:red'>63</span> || <span style='color:red'>{{dec-hex|63}}</span> || [[Sign]] Post <sup>[[#Sign Posts|D]] [[#Item_IDs|I]] [[Tile entity|T]]</sup>
+|}
+
+{| align="left" style="margin:2px; border: 1px solid silver; text-align: center;"
+! Icon !! Dec !! Hex !! Block type
+|-
+| height="27px" | [[File:Wooden Door.png|25px]] || <span style='color:red'>64</span> || <span style='color:red'>{{dec-hex|64}}</span> || Wooden [[Doors|Door]] <sup>[[#Doors|D]] [[#Item_IDs|I]]</sup>
+|-
+| height="27px" | [[File:Ladders.png|25px]] || 65 || {{dec-hex|65}} || [[Ladders]] <sup>[[#Ladders, Wall Signs, Furnaces, Dispensers and Chests|D]]</sup>
+|-
+| height="27px" | [[File:Rails.png|25px]] || 66 || {{dec-hex|66}} || [[Rail]]s <sup>[[#Rails|D]]</sup>
+|-
+| height="27px" | [[File:Cobblestone Stairs.png|25px]] || 67 || {{dec-hex|67}} || Cobblestone [[Stairs]] <sup>[[#Stairs|D]]</sup>
+|-
+| height="27px" | [[File:Wall Sign.png|25px]] || <span style='color:red'>68</span> || <span style='color:red'>{{dec-hex|68}}</span> || Wall [[Sign]] <sup>[[#Ladders, Wall Signs, Furnaces, Dispensers and Chests|D]] [[Tile entity|T]]</sup>
+|-
+| height="27px" | [[File:Lever.png|25px]] || 69 || {{dec-hex|69}} || [[Lever]] <sup>[[#Levers|D]]</sup>
+|-
+| height="27px" | [[File:Stone Pressure Plate.png|25px]] || 70 || {{dec-hex|70}} || Stone [[Pressure Plates|Pressure Plate]] <sup>[[#Pressure Plates|D]]</sup> 
+|-
+| height="27px" | [[File:Iron Door.png|25px]] || <span style='color:red'>71</span> || <span style='color:red'>{{dec-hex|71}}</span> || Iron [[Doors|Door]] <sup>[[#Doors|D]] [[#Item_IDs|I]]</sup>
+|-
+| height="27px" | [[File:Wooden Pressure Plate.png|25px]] || 72 || {{dec-hex|72}} || Wooden [[Pressure Plates|Pressure Plate]] <sup>[[#Pressure Plates|D]]</sup>
+|-
+| height="27px" | [[File:Redstone (Ore).png|25px]] || <span style='color:green'>73</span> || <span style='color:green'>{{dec-hex|73}}</span> || [[Redstone (Ore)|Redstone Ore]]
+|-
+| height="27px" | [[File:Redstone (Ore).png|25px]] || <span style='color:#99CC00'>74</span> || <span style='color:#99CC00'>{{dec-hex|74}}</span> || Glowing Redstone Ore
+|-
+| height="27px" | [[File:Redstone (Torch, Inactive).png|25px]] || <span style='color:red'>75</span> || <span style='color:red'>{{dec-hex|75}}</span> || [[Redstone Torch]] ("off" state) <sup>[[#Torches and Redstone Torches|D]]</sup>
+|-
+| height="27px" | [[File:Redstone (Torch, Active).png|25px]] || 76 || {{dec-hex|76}} || [[Redstone Torch]] ("on" state) <sup>[[#Torches and Redstone Torches|D]]</sup>
+|-
+| height="27px" | [[File:Stone Button.png|25px]] || 77 || {{dec-hex|77}} || Stone [[Button]] <sup>[[#Buttons|D]]</sup>
+|-
+| height="27px" | [[File:Snow.png|25px]] || <span style='color:red'>78</span> || <span style='color:red'>{{dec-hex|78}}</span> || [[Snow]] <sup>[[#Snow|D]]</sup>
+|-
+| height="27px" | [[File:Ice.png|25px]] || <span style='color:blue'>79</span> || <span style='color:blue'>{{dec-hex|79}}</span> || [[Ice]]
+|-
+| height="27px" | [[File:Snow (Block).png|25px]] || 80 || {{dec-hex|80}} || [[Snow Block]]
+|-
+| height="27px" | [[File:Cactus.png|25px]] || 81 || {{dec-hex|81}} || [[Cactus]] <sup>[[#Cactus|D]]</sup>
+|-
+| height="27px" | [[File:Clay (Block).png|25px]] || 82 || {{dec-hex|82}} || [[Clay (Block)|Clay Block]]
+|-
+| height="27px" | [[File:Sugar Cane.png|25px]] || <span style='color:red'>83</span> || <span style='color:red'>{{dec-hex|83}}</span> || [[Sugar Cane]] <sup>[[#Sugar Canes|D]] [[#Item IDs|I]]</sup>
+|-
+| height="27px" | [[File:Jukebox.png|25px]] || 84 || {{dec-hex|84}} || [[Jukebox]] <sup>[[#Jukebox|D]] [[Tile entity|T]]</sup>
+|-
+| height="27px" | [[File:Fence.png|25px]] || 85 || {{dec-hex|85}} || [[Fence]]
+|-
+| height="27px" | [[File:Pumpkin.png|25px]] || 86 || {{dec-hex|86}} || [[Pumpkin]] <sup>[[#Pumpkins and Jack-O-Lanterns|D]]</sup>
+|-
+| height="27px" | [[File:Netherrack.png|25px]] || 87 || {{dec-hex|87}} || [[Netherrack]]
+|-
+| height="27px" | [[File:Soul Sand.png|25px]] || 88 || {{dec-hex|88}} || [[Soul Sand]]
+|-
+| height="27px" | [[File:Glowstone (Block).png|25px]] || 89 || {{dec-hex|89}} || [[Glowstone Block]]
+|-
+| height="27px" | [[File:Portal.png|25px]] || <span style='color:red'>90</span> || <span style='color:red'>{{dec-hex|90}}</span> || [[Technical_blocks#Portal|Portal]]
+|-
+| height="27px" | [[File:Jack-O-Lantern.png|25px]] || 91 || {{dec-hex|91}} || [[Jack-O-Lantern]] <sup>[[#Pumpkins and Jack-O-Lanterns|D]]</sup>
+|-
+| height="27px" | [[File:Cake.png|25px]] || <span style='color:red'>92</span> || <span style='color:red'>{{dec-hex|92}}</span> || [[Cake|Cake Block]] <sup>[[#Cake|D]] [[#Item_IDs|I]]</sup>
+|-
+| height="27px" | [[File:Redstone (Repeater, Inactive).png|25px]] || <span style='color:red'>93</span> || <span style='color:red'>{{dec-hex|93}}</span> || [[Redstone Repeater]] ("off" state) <sup>[[#Redstone Repeater|D]] [[#Item_IDs|I]]</sup>
+|-
+| height="27px" | [[File:Redstone (Repeater, Active).png|25px]] || <span style='color:red'>94</span> || <span style='color:red'>{{dec-hex|94}}</span> || Redstone Repeater ("on" state) <sup>[[#Redstone Repeater|D]] [[#Item_IDs|I]]</sup>
+|-
+| height="27px" | [[File:Locked Chest.png|25px]] || <span style='color:red'>95</span> || <span style='color:red'>{{dec-hex|95}}</span> || [[Locked Chest]]
+|}
+
+{| align="left" style="margin:2px; border: 1px solid silver; text-align: center;"
+! Icon !! Dec !! Hex !! Block type
+|-
+| height="27px" | [[File:Trapdoor.png|25px]] || 96 || {{dec-hex|96}} || [[Trapdoor]] <sup>[[#Trapdoors|D]]</sup>
+|-
+| height="27px" | [[File:Stone.png|25px]] || <span style='color:#99CC00'>97</span> || <span style='color:#99CC00'>{{dec-hex|97}}</span> || Hidden [[Silverfish]]  <sup>[[#Hidden Silverfish|D]]</sup>
+|-
+| height="27px" | [[File:Stone Brick.png|25px]] || 98 || {{dec-hex|98}} || [[Stone Brick]]s <sup>[[#Stone Brick|D]] [[#Stone Brick|B]]</sup>
+|-
+| height="27px" | [[File:Huge Brown Mushroom.png|25px]] || <span style='color:#99CC00'>99</span> || <span style='color:#99CC00'>{{dec-hex|99}}</span> || [[Huge Mushrooms|Huge Brown Mushroom]] <sup>[[#Huge brown and red mushroom|D]]</sup>
+|-
+| height="27px" | [[File:Huge Red Mushroom.png|25px]] || <span style='color:#99CC00'>100</span> || <span style='color:#99CC00'>{{dec-hex|100}}</span> || [[Huge Mushrooms|Huge Red Mushroom]] <sup>[[#Huge brown and red mushroom|D]]</sup>
+|-
+| height="27px" | [[File:Iron Bars.png|25px]] || 101 || {{dec-hex|101}} || [[Iron Bars]]
+|-
+| height="27px" | [[File:Glass Pane.png|25px]] || 102 || {{dec-hex|102}} || [[Glass Pane]]
+|-
+| height="27px" | [[File:Melon (Block).png|25px]] || 103 || {{dec-hex|103}} || [[Melon (Block)|Melon]]
+|-
+| height="27px" | [[File:Seed Stem.png|25px]] || <span style='color:red'>104</span> || <span style='color:red'>{{dec-hex|104}}</span> || [[Technical_blocks#Pumpkin_Stem|Pumpkin Stem]] <sup>[[#Pumpkin stem and Melon stem|D]]</sup>
+|-
+| height="27px" | [[File:Seed Stem.png|25px]] || <span style='color:red'>105</span> || <span style='color:red'>{{dec-hex|105}}</span> || [[Technical_blocks#Melon_Stem|Melon Stem]] <sup>[[#Pumpkin stem and Melon stem|D]]</sup>
+|-
+| height="27px" | [[File:Vine.png|25px]] || 106 || {{dec-hex|106}} || [[Vines]] <sup>[[#Vines|D]]</sup>
+|-
+| height="27px" | [[File:Fence Gate (Closed).png|25px]] || 107 || {{dec-hex|107}} || [[Fence Gate]] <sup>[[#Fence Gates|D]]</sup>
+|-
+| height="27px" | [[File:Brick Stairs.png|25px]] || 108 || {{dec-hex|108}} || [[Stairs|Brick Stairs]] <sup>[[#Stairs|D]]</sup>
+|-
+| height="27px" | [[File:Stone Brick Stairs.png|25px]] || 109 || {{dec-hex|109}} || [[Stairs|Stone Brick Stairs]] <sup>[[#Stairs|D]]</sup>
+|-
+| height="27px" | [[File:Mycelium.png|25px]] || <span style='color:green'>110</span> || <span style='color:green'>{{dec-hex|110}}</span> || [[Mycelium]]
+|-
+| height="27px" | [[File:Lily Pad.png|25px]] || 111 || {{dec-hex|111}} || [[Lily Pad]]
+|-
+| height="27px" | [[File:Nether Brick.png|25px]] || 112 || {{dec-hex|112}} || [[Nether Brick]]
+|-
+| height="27px" | [[File:Nether Brick Fence.png|25px]] || 113 || {{dec-hex|113}} || [[Nether Brick Fence]]
+|-
+| height="27px" | [[File:Nether Brick Stairs.png|25px]] || 114 || {{dec-hex|114}} || [[Stairs|Nether Brick Stairs]] <sup>[[#Stairs|D]]</sup>
+|-
+| height="27px" | [[File:Nether Wart.png|25px]] || <span style='color:red'>115</span> || <span style='color:red'>{{dec-hex|115}}</span> || [[Nether Wart]] <sup>[[#Nether Wart|D]] [[#Item_IDs|I]]</sup>
+|-
+| height="27px" | [[File:Enchantment Table.png|25px]] || 116 || {{dec-hex|116}} || [[Enchantment Table]] <sup>[[Tile entity|T]]</sup>
+|-
+| height="27px" | [[File:Brewing Stand.png|25px]] || <span style='color:red'>117</span> || <span style='color:red'>{{dec-hex|117}}</span> || [[Brewing Stand]] <sup>[[#Brewing Stand|D]] [[Tile entity|T]] [[#Data|I]]</sup>
+|-
+| height="27px" | [[File:Cauldron.png|25px]] || <span style='color:red'>118</span> || <span style='color:red'>{{dec-hex|118}}</span> || [[Cauldron]] <sup>[[#Cauldron|D]] [[#Data|I]]</sup>
+|-
+| height="27px" | [[File:End Portal.png|25px]] || <span style='color:red'>119</span> || <span style='color:red'>{{dec-hex|119}}</span> || [[Technical blocks#End Portal|End Portal]] <sup>[[Tile entity|T]]</sup>
+|-
+| height="27px" | [[File:End Portal Frame.png|25px]] || <span style='color:red'>120</span> || <span style='color:red'>{{dec-hex|120}}</span> || [[Technical blocks#End Portal Frame|End Portal Frame]] <sup>[[#End Portal Frame|D]]</sup>
+|-
+| height="27px" | [[File:End Stone.png|25px]] || 121 || {{dec-hex|121}} || [[End Stone]]
+|-
+| height="27px" | [[File:Dragon Egg.png|25px]] || 122 || {{dec-hex|122}} || [[Dragon Egg]]
+|}
