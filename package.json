@@ -1,0 +1,9 @@
+{
+    "name": "mc-ore-distribution"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "jspack": ">= 0.0.1"
+    , "bufferjs": ">= 0.0.1"
+  }
+}
