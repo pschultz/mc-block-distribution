@@ -1,4 +1,4 @@
-all: app.js chart.js
+all: app.js web/chart.js
 
 %.js: %.coffee
 	coffee -cb $?
